@@ -1,0 +1,20 @@
+
+<h1 style="color:blue;"><center>San Francisco Police Department Crime Rates Report</center>
+
+  </h1>
+
+<h2 style="color:blue;"> Descriptions of the repository</h2>
+
+
+
+## Data
+The data files can be found at [Kaggle](https://www.kaggle.com/psmavi104/san-francisco-crime-data).
+
+
+
+## Notebook and Function
+Our technical notebook, `md_sanfrancisco_crime.ipynb`, can be found [here](https://github.com/doumbiassa/sanfrancisco_crime_reports/blob/G_Edits/md_sanfrancisco_crime.ipynb).
+
+## Purpose of our repository
+The purpose of this analysis is to be able to predict which crime's resolution is more likely to be classified as Open or Active,Cite or Arrest Adult, Cite or Arrest Juvenile, Unfounded, Exceptional Adult, Exceptional, Juvenile. We are therefore looking at dataset from 2001 to present with the hopes of providing more accurate preditions. The link to our final presentation can be found [here](...).
+
