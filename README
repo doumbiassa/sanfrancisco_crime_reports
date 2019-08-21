@@ -1,12 +1,8 @@
 
-<<<<<<< HEAD
-<h1 style="color:blue;"><center>San Francisco Police Department Crime Rates Report</center>
-</h1>
-=======
-<h1 style="color:blue;"><center>San Francisco Police Department Crime Rates Report</center></h1>
->>>>>>> 6ce906f3565612e0fce03823e8d36c71fd6c043e
+SAN FRANCISCO POLICE DEPARTMENT CRIME RATES REPORTS 
 
-<h2 style="color:blue;"> Descriptions of the repository</h2>
+
+Descriptions of the repository
 
 
 ## Data
@@ -14,7 +10,7 @@ The data files can be found at [Kaggle](https://www.kaggle.com/psmavi104/san-fra
 
 
 
-## Notebook and Function
+ ## Notebook and Function
 Our technical notebook, `md_sanfrancisco_crime.ipynb`, can be found [here](https://github.com/doumbiassa/sanfrancisco_crime_reports/blob/G_Edits/md_sanfrancisco_crime.ipynb).
 
 ## Purpose of our repository
