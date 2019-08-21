@@ -1,9 +1,12 @@
 
+<<<<<<< HEAD
 <h1 style="color:blue;"><center>San Francisco Police Department Crime Rates Report</center>
 </h1>
+=======
+<h1 style="color:blue;"><center>San Francisco Police Department Crime Rates Report</center></h1>
+>>>>>>> 6ce906f3565612e0fce03823e8d36c71fd6c043e
 
 <h2 style="color:blue;"> Descriptions of the repository</h2>
-
 
 
 ## Data
